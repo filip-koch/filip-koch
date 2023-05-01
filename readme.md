@@ -34,21 +34,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
-
-###
-
-<h3 align="left">🎧 Music</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/wyocg9r6lq6ygniieffug685h">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/filip-koch/filip-koch/output/snake.svg" alt="Snake animation" />
-
-###
